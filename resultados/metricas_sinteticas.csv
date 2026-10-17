@@ -1,0 +1,4 @@
+,n,media,mediana,erro_padrao
+Verdadeiras do corpus,5951,101.9,89.0,0.95
+Falsas do corpus,5951,68.55,61.0,0.7
+Falsas sintéticas,147,111.03,111.0,0.22
