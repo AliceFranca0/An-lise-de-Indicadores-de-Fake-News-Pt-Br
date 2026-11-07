@@ -1,4 +1,4 @@
-# Detecção de Fake News em Português: vazamentos de informação e descasamento de pré-processamento no corpus FakeRecogna
+# Detecção de Fake News em Português: vazamentos de informação e incompatibilidade de pré-processamento no corpus FakeRecogna
 
 Trabalho de Conclusão de Curso — Tecnologia em Análise e Desenvolvimento de Sistemas
 Instituto Federal do Paraná (IFPR), Campus Paranaguá
@@ -186,7 +186,7 @@ demonstra o método e não deve ser usada como verificador em produção.
 ## Como citar
 
 França, A. V. C. e Weinert, W. R. (2026) "Detecção de Fake News em Português:
-vazamentos de informação e descasamento de pré-processamento no corpus
+vazamentos de informação e incompatibilidade de pré-processamento no corpus
 FakeRecogna". Trabalho de Conclusão de Curso (Tecnologia em Análise e
 Desenvolvimento de Sistemas), Instituto Federal do Paraná, Paranaguá.
 
@@ -203,7 +203,7 @@ Geirhos, R. et al. (2020). Shortcut Learning in Deep Neural Networks.
 
 Moraes Silva, R. et al. (2025). Fake News Detection in Portuguese Under Large
 Language Model-Generated Content. *Journal of the Brazilian Computer Society*,
-v. 31, n. 1, p. 1150–1167.
+v. 31, n. 1, p. 1149–1166.
 
 Haroon, M. A. et al. (2026). When Benchmarks Mislead: Shortcut Learning, Length
 Confounds, and the Limits of Cross-Dataset Generalization in Multilingual Fake

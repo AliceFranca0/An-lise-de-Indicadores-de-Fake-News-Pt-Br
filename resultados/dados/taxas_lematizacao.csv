@@ -1,4 +1,5 @@
 ,taxa_de_lema
 Corpus — Falsa,0.9453680520781171
 Corpus — Verdadeira,0.9110671936758893
-Sintéticas,0.6037750939774454
+Sintéticas — falsas,0.6037750939774454
+Sintéticas — verdadeiras,0.5940087676570872
